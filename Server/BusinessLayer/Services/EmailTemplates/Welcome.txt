@@ -1,0 +1,10 @@
+﻿<div>
+<center>
+<img src="cid:{0}">
+</center>
+ <center>
+  <h3>Welcome to Cluj E-parking application!</h3>
+  <h4>Best Regards, </h4>
+  <h4>CJ E-Parking Team </h4>
+ </center>
+</div>

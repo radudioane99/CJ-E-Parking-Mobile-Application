@@ -1,0 +1,10 @@
+﻿<div>
+<center>
+<img src="cid:{0}">
+</center>
+ <center>
+  <h4>Your account has been successfully edited. If it was not your activity, please contact us immediately!</h4>
+  <h4>Best Regards, </h4>
+  <h4>CJ E-Parking Team </h4>
+ </center>
+</div>
